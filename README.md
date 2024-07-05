@@ -1,16 +1,15 @@
-# ai-driven-recruitment-platform
-
 ---Project Name :- HirelyAI
 
-#### Summary
+#### AI-Powered Candidate Shortlisting Solution
+-- The core feature of this project is to streamline the recruitment process by leveraging AI to evaluate candidates based on their responses to questions in three key areas:
 
-A Solution for shorlisting candidates through AI , the core feature in this project is that candidates are asked questions in 3 key areas which is,
-- Technical Skills and Experience, 
+- Technical Skills and Experience
 - Problem-Solving and Critical Thinking
 - Teamwork and Communication
-based on the answer of candidate the Ai Model will be send a rating to the admin if this candidate is Good, Consider, Bad. 
 
-#### Other features in include 
+-- The AI model analyzes the candidate's answers and provides a rating to the admin, categorizing each candidate as "Good," "Consider," or "Bad." This automated evaluation helps recruiters make more informed and efficient shortlisting decisions.
+
+#### Other features included
 - Secured Authentication for user and admin using Google Sign-In
 - CRUDE Operations for admin
 
