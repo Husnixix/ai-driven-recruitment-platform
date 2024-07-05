@@ -1,6 +1,6 @@
 # ai-driven-recruitment-platform
 
----Project Name:- HirelyAI
+---Project Name :- HirelyAI
 
 #### Summary
 
@@ -11,8 +11,8 @@ A Solution for shorlisting candidates through AI , the core feature in this proj
 based on the answer of candidate the Ai Model will be send a rating to the admin if this candidate is Good, Consider, Bad. 
 
 #### Other features in include 
--Secured Authentication for user and admin using Google Sign-In
--CRUDE Operations for admin
+- Secured Authentication for user and admin using Google Sign-In
+- CRUDE Operations for admin
 
 ##### Technoglogies Used
 - Node.js, Express.js, React.js, MongoDB
