@@ -1,5 +1,6 @@
 ---Project Name :- HirelyAI
----Project Link:- (https://aidf-front-end-husni.netlify.app/)
+
+---Project Link :- (https://aidf-front-end-husni.netlify.app/)
 
 #### AI-Powered Candidate Shortlisting Solution
 -- The core feature of this project is to streamline the recruitment process by leveraging AI to evaluate candidates based on their responses to questions in three key areas:
